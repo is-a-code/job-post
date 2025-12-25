@@ -157,3 +157,9 @@ MIT License - Feel free to use and modify.
 ## Author
 
 Created by LAYER
+
+## Navigation
+
+- [Root Project](../README.md)
+- [Events](../events/README.md)
+- [Generate](../generate/README.md)
